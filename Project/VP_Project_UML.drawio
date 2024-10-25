@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Page-1" id="07sI5CjSaZkgGGIySh-F">
+    <mxGraphModel dx="1222" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tw15P43hoqSYduDyS6pV-1" value="Shopping Card" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-990" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-2" value="&amp;nbsp;+Products : List&amp;lt;Product&amp;gt;&lt;div&gt;&amp;nbsp;+ExpirationTime : DateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+EXPIRATION_MINUTES : int&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-1">
+          <mxGeometry y="26" width="230" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-1">
+          <mxGeometry y="90" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-4" value="&lt;div&gt;+setExpirationdate(date:string)&lt;/div&gt;&lt;div&gt;+setProduct_list(list:int)&lt;/div&gt;&lt;div&gt;+setExpirationminutes(exp_min:string)&lt;/div&gt;&lt;div&gt;&lt;div&gt;+getProduct_list():int&lt;/div&gt;&lt;div&gt;+getExpirationminutes():string&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+getExpirationdate():string&lt;/div&gt;&lt;div&gt;+ShoppingCart()&lt;div&gt;+AddProduct(product :Product) : void&lt;br&gt;&lt;/div&gt;&lt;div&gt;+RemoveProduct(id : int) : void&lt;/div&gt;&lt;div&gt;+ViewCart() : void&lt;/div&gt;&lt;div&gt;+UpdateQuantity(id : int, N_Q) : void&lt;/div&gt;&lt;div&gt;+CalculateTotal() : decimal&lt;/div&gt;&lt;div&gt;+ApplyDiscount(D_Per : int) : void&lt;/div&gt;&lt;div&gt;+Checkout() : void&lt;/div&gt;&lt;div&gt;+CheckExpiration(source : Object) : void&lt;/div&gt;&lt;div&gt;+RecommendProducts() : void&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-1">
+          <mxGeometry y="98" width="230" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-5" value="Product" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-570" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-6" value="+Id : int&lt;div&gt;+Name : string&lt;br&gt;&lt;/div&gt;&lt;div&gt;+Price : decimal&lt;/div&gt;&lt;div&gt;+Quantity : int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-5">
+          <mxGeometry y="26" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-5">
+          <mxGeometry y="100" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-8" value="+setID(id:int)&lt;div&gt;+setName(string:name)&lt;/div&gt;&lt;div&gt;+setPrice(price:int)&lt;/div&gt;&lt;div&gt;+setQuantity(quan:int)&lt;/div&gt;&lt;div&gt;+getID():int&lt;/div&gt;&lt;div&gt;+&lt;span style=&quot;background-color: initial;&quot;&gt;getName():string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+getPrice():int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+getQuantity():int&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Tw15P43hoqSYduDyS6pV-5">
+          <mxGeometry y="108" width="160" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw15P43hoqSYduDyS6pV-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.556;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tw15P43hoqSYduDyS6pV-4" target="Tw15P43hoqSYduDyS6pV-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-110" as="sourcePoint" />
+            <mxPoint x="410" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
