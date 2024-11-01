@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\bin\Debug\net8.0-windows\Numeric_UpDown_Control.exe
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\bin\Debug\net8.0-windows\Numeric_UpDown_Control.deps.json
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\bin\Debug\net8.0-windows\Numeric_UpDown_Control.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\bin\Debug\net8.0-windows\Numeric_UpDown_Control.dll
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\bin\Debug\net8.0-windows\Numeric_UpDown_Control.pdb
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.Form1.resources
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.dll
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\refint\Numeric_UpDown_Control.dll
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.pdb
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\Numeric_UpDown_Control.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\Numeric_UpDown_Control\Numeric_UpDown_Control\obj\Debug\net8.0-windows\ref\Numeric_UpDown_Control.dll

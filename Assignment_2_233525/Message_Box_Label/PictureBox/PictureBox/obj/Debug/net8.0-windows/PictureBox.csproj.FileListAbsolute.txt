@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.exe
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.deps.json
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.dll
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.pdb
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.Form1.resources
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.dll
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\refint\PictureBox.dll
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.pdb
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\PictureBox\PictureBox\obj\Debug\net8.0-windows\ref\PictureBox.dll
