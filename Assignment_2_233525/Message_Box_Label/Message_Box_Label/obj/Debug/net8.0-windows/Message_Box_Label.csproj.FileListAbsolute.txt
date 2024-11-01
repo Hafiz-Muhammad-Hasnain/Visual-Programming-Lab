@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\bin\Debug\net8.0-windows\Message_Box_Label.exe
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\bin\Debug\net8.0-windows\Message_Box_Label.deps.json
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\bin\Debug\net8.0-windows\Message_Box_Label.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\bin\Debug\net8.0-windows\Message_Box_Label.dll
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\bin\Debug\net8.0-windows\Message_Box_Label.pdb
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.Form1.resources
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.dll
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\refint\Message_Box_Label.dll
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.pdb
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\Message_Box_Label.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\Message_Box_Label\Message_Box_Label\obj\Debug\net8.0-windows\ref\Message_Box_Label.dll
