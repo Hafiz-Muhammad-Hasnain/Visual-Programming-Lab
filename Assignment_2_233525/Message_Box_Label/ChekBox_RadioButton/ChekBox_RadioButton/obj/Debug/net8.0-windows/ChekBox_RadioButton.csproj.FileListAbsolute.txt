@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\bin\Debug\net8.0-windows\ChekBox_RadioButton.exe
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\bin\Debug\net8.0-windows\ChekBox_RadioButton.deps.json
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\bin\Debug\net8.0-windows\ChekBox_RadioButton.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\bin\Debug\net8.0-windows\ChekBox_RadioButton.dll
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\bin\Debug\net8.0-windows\ChekBox_RadioButton.pdb
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.Form1.resources
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.dll
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\refint\ChekBox_RadioButton.dll
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.pdb
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ChekBox_RadioButton.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\ChekBox_RadioButton\ChekBox_RadioButton\obj\Debug\net8.0-windows\ref\ChekBox_RadioButton.dll

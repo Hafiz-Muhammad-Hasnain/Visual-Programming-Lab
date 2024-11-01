@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChekBox_RadioButton/1.0.0": {
+        "runtime": {
+          "ChekBox_RadioButton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChekBox_RadioButton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

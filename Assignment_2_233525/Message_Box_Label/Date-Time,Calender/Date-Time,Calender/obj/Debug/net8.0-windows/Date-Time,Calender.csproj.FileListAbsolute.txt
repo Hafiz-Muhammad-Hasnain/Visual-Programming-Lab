@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\bin\Debug\net8.0-windows\Date-Time,Calender.exe
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\bin\Debug\net8.0-windows\Date-Time,Calender.deps.json
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\bin\Debug\net8.0-windows\Date-Time,Calender.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\bin\Debug\net8.0-windows\Date-Time,Calender.dll
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\bin\Debug\net8.0-windows\Date-Time,Calender.pdb
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date_Time_Calender.Form1.resources
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.dll
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\refint\Date-Time,Calender.dll
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.pdb
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\Date-Time,Calender.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\Date-Time,Calender\Date-Time,Calender\obj\Debug\net8.0-windows\ref\Date-Time,Calender.dll

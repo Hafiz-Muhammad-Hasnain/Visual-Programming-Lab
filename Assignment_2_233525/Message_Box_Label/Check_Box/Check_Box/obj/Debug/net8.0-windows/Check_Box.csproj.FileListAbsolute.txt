@@ -1,0 +1,16 @@
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.Form1.resources
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\bin\Debug\net8.0-windows\Check_Box.exe
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\bin\Debug\net8.0-windows\Check_Box.deps.json
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\bin\Debug\net8.0-windows\Check_Box.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\bin\Debug\net8.0-windows\Check_Box.dll
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\bin\Debug\net8.0-windows\Check_Box.pdb
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.dll
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\refint\Check_Box.dll
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.pdb
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\Check_Box.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\Check_Box\Check_Box\obj\Debug\net8.0-windows\ref\Check_Box.dll
