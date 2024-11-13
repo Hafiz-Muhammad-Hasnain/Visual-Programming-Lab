@@ -1,0 +1,17 @@
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\bin\Debug\net8.0-windows\Exercise_1.exe
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\bin\Debug\net8.0-windows\Exercise_1.deps.json
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\bin\Debug\net8.0-windows\Exercise_1.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\bin\Debug\net8.0-windows\Exercise_1.dll
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\bin\Debug\net8.0-windows\Exercise_1.pdb
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.Form1.resources
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.dll
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\refint\Exercise_1.dll
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.pdb
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\ref\Exercise_1.dll
+C:\Users\Salal Computers\source\repos\Exercise_1\Exercise_1\obj\Debug\net8.0-windows\Exercise_1.Properties.Resources.resources
