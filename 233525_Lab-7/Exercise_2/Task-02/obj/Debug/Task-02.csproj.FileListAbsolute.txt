@@ -1,0 +1,10 @@
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task-02.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task_02.Form1.resources
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task_02.Properties.Resources.resources
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task-02.csproj.GenerateResource.cache
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task-02.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Task-02\Task-02\bin\Debug\Task-02.exe.config
+C:\Users\PMLS\source\repos\Task-02\Task-02\bin\Debug\Task-02.exe
+C:\Users\PMLS\source\repos\Task-02\Task-02\bin\Debug\Task-02.pdb
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task-02.exe
+C:\Users\PMLS\source\repos\Task-02\Task-02\obj\Debug\Task-02.pdb
