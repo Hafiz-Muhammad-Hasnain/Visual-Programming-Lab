@@ -1,0 +1,14 @@
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\bin\Debug\net8.0\233525_Assignment-3.exe
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\bin\Debug\net8.0\233525_Assignment-3.deps.json
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\bin\Debug\net8.0\233525_Assignment-3.runtimeconfig.json
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\bin\Debug\net8.0\233525_Assignment-3.dll
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\bin\Debug\net8.0\233525_Assignment-3.pdb
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.AssemblyInfoInputs.cache
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.AssemblyInfo.cs
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.dll
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\refint\233525_Assignment-3.dll
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.pdb
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\233525_Assignment-3.genruntimeconfig.cache
+C:\Users\Salal Computers\source\repos\233525_Assignment-3\233525_Assignment-3\obj\Debug\net8.0\ref\233525_Assignment-3.dll
