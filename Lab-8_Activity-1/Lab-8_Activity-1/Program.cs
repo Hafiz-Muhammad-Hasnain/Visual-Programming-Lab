@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
 
-        string connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\\Data\\Northwind.mdb;User  Id=admin;Password=;";
+        string connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + "C:\\Users\\233525\\Downloads\\Northwind.mdb;User Id=admin;Password=;";
 
 
         string queryString = "SELECT ProductID, UnitPrice, ProductName FROM Products " +
