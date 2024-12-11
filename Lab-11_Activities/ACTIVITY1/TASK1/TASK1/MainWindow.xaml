@@ -1,0 +1,20 @@
+﻿<Window x:Class="TASK1.MainWindow.BringBackPocoyo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BringBackPocoyo" Height="350" Width="525">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="3" Padding="10" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Border BorderBrush="Black" BorderThickness="10" Margin="20" Height="87">
+                    <Image Source="C:\Users\233525\Desktop\TASK1\Images\star1.jfif" Width="100"/>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="10" Margin="20" Height="85">
+                    <Image Source="C:\Users\233525\Desktop\TASK1\Images\Star2.jfif" Margin="0,0,0,-2"/>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="10" Margin="20" Height="92">
+                    <Image Source="C:\Users\233525\Desktop\TASK1\Images\Star3.png" Width="100" Margin="0,0,0,-1"/>
+                </Border>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
