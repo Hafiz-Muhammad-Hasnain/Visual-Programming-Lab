@@ -1,0 +1,15 @@
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\bin\Debug\net6.0\Lab-11_Activity-2_Consoleapp.exe
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\bin\Debug\net6.0\Lab-11_Activity-2_Consoleapp.deps.json
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\bin\Debug\net6.0\Lab-11_Activity-2_Consoleapp.runtimeconfig.json
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\bin\Debug\net6.0\Lab-11_Activity-2_Consoleapp.dll
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\bin\Debug\net6.0\Lab-11_Activity-2_Consoleapp.pdb
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.csproj.AssemblyReference.cache
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.AssemblyInfoInputs.cache
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.AssemblyInfo.cs
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.dll
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\refint\Lab-11_Activity-2_Consoleapp.dll
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.pdb
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\Lab-11_Activity-2_Consoleapp.genruntimeconfig.cache
+C:\Users\233525\source\repos\Lab-11_Activity-2_Consoleapp\Lab-11_Activity-2_Consoleapp\obj\Debug\net6.0\ref\Lab-11_Activity-2_Consoleapp.dll
