@@ -1,0 +1,15 @@
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\bin\Debug\LAB-11_ACTIVITY-1.exe.config
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\bin\Debug\LAB-11_ACTIVITY-1.exe
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\bin\Debug\LAB-11_ACTIVITY-1.pdb
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.csproj.AssemblyReference.cache
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\MainWindow.baml
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\MainWindow.g.cs
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\App.g.cs
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1_MarkupCompile.cache
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.g.resources
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB_11_ACTIVITY_1.Properties.Resources.resources
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.csproj.GenerateResource.cache
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.csproj.CoreCompileInputs.cache
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.exe
+C:\Users\233525\source\repos\LAB-11_ACTIVITY-1\LAB-11_ACTIVITY-1\obj\Debug\LAB-11_ACTIVITY-1.pdb
