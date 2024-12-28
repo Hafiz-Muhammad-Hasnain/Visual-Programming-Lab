@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Salal Computers\\source\\repos\\HelloWorldBlazorSSR\\HelloWorldBlazorSSR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorSSR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HelloWorldBlazorSSR.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Salal Computers\\source\\repos\\HelloWorldBlazorSSR\\HelloWorldBlazorSSR\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Salal Computers\\source\\repos\\HelloWorldBlazorSSR\\HelloWorldBlazorSSR\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Salal Computers\\source\\repos\\HelloWorldBlazorSSR\\HelloWorldBlazorSSR\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Salal Computers\\source\\repos\\HelloWorldBlazorSSR\\HelloWorldBlazorSSR\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelloWorldBlazorSSR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HelloWorldBlazorSSR.props",
+      "PackagePath": "build\\HelloWorldBlazorSSR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloWorldBlazorSSR.props",
+      "PackagePath": "buildMultiTargeting\\HelloWorldBlazorSSR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelloWorldBlazorSSR.props",
+      "PackagePath": "buildTransitive\\HelloWorldBlazorSSR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
