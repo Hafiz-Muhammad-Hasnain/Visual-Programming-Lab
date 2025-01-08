@@ -1,0 +1,16 @@
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\bin\Debug\Student-Progress-Tracker.exe.config
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\bin\Debug\Student-Progress-Tracker.exe
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\bin\Debug\Student-Progress-Tracker.pdb
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.csproj.AssemblyReference.cache
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\MainWindow.g.cs
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\App.g.cs
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker_MarkupCompile.cache
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker_MarkupCompile.lref
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\MainWindow.baml
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.g.resources
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student_Progress_Tracker.Properties.Resources.resources
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.csproj.GenerateResource.cache
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.csproj.CoreCompileInputs.cache
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.exe
+C:\Users\233525\source\repos\Student-Progress-Tracker\Student-Progress-Tracker\obj\Debug\Student-Progress-Tracker.pdb
