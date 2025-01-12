@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Activity-1_Assign_05.props" />
+</Project>

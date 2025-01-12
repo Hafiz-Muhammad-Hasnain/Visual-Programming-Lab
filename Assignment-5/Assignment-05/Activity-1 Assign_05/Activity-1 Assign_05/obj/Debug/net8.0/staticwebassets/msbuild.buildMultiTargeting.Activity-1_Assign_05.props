@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Activity-1_Assign_05.props" />
+</Project>

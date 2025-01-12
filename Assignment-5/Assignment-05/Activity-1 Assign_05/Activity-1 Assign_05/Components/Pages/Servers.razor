@@ -1,0 +1,97 @@
+﻿@page "/servers"
+<h3 style="color:white;background-color:darkgreen; font-size:35px;">Servers</h3>
+<br/>
+<br/>
+<div class="container-fluid text-center">
+    <div class="row w-50">
+        @foreach (var city in cities)
+        {
+            <div class="col">
+                <div class="card">
+                    <img src="@($"/images/{city}.png")" class="card-img-top" alt="" />
+                    <div class="card-body">
+                        <button type="button" class="btn btn-primary">@city </button>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+    </div>
+</div>
+<br />
+<ul>
+    @foreach(var server in servers)
+    {
+        <li>
+            @server.Name in @server.City is
+            <span style="@($"color:{(server.IsOnline?"green":"red")}")">
+                @(server.IsOnline ? "Online" : "Offline")
+            </span>
+            &nbsp;
+        </li>
+    }
+</ul>
+
+<ul>
+    @foreach (var ser in server)
+    {
+        <li>
+            @ser.Name in @ser.City is
+            <span style="@($"color:{(ser.IsOnline?"green":"red")}")">
+                @(ser.IsOnline ? "Online" : "Offline")
+            </span>
+            &nbsp;
+        </li>
+    }
+</ul>
+
+<ul>
+    @foreach (var ser in serv)
+    {
+        <li>
+            @ser.Name in @ser.City is
+            <span style="@($"color:{(ser.IsOnline?"green":"red")}")">
+                @(ser.IsOnline ? "Online" : "Offline")
+            </span>
+            &nbsp;
+        </li>
+    }
+</ul>
+
+<ul>
+    @foreach (var ser in serve)
+    {
+        <li>
+            @ser.Name in @ser.City is
+            <span style="@($"color:{(ser.IsOnline?"green":"red")}")">
+                @(ser.IsOnline ? "Online" : "Offline")
+            </span>
+            &nbsp;
+        </li>
+    }
+</ul>
+
+<ul>
+    @foreach (var ser in se)
+    {
+        <li>
+            @ser.Name in @ser.City is
+            <span style="@($"color:{(ser.IsOnline?"green":"red")}")">
+                @(ser.IsOnline ? "Online" : "Offline")
+            </span>
+            &nbsp;
+        </li>
+    }
+</ul>
+
+<Activity_1_Assign_05.Components.Control.ServerComponent></Activity_1_Assign_05.Components.Control.ServerComponent>
+
+@code {
+    private List<Server> servers = ServersRepository.GetServersByCity("Toronto");
+    private List<Server> server = ServersRepository.GetServersByCity("Montreal");
+    private List<Server> serv = ServersRepository.GetServersByCity("Ottawa");
+    private List<Server> serve = ServersRepository.GetServersByCity("Calgary");
+    private List<Server> se = ServersRepository.GetServersByCity("Halifax");
+    private List<String> cities = CityRepository.GetCities();
+}

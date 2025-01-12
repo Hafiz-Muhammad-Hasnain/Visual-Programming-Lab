@@ -1,0 +1,66 @@
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\appsettings.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.staticwebassets.runtime.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.staticwebassets.endpoints.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.exe
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.deps.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.runtimeconfig.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.dll
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.pdb
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\bundle\Activity-1_Assign_05.styles.css
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\projectbundle\Activity-1_Assign_05.bundle.scp.css
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.Activity-1_Assign_05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.Activity-1_Assign_05.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.build.Activity-1_Assign_05.props
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Activity-1_Assign_05.props
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Activity-1_Assign_05.props
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.dll
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\refint\Activity-1_Assign_05.dll
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.pdb
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\ref\Activity-1_Assign_05.dll
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\appsettings.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.staticwebassets.runtime.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.staticwebassets.endpoints.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.exe
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.deps.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.runtimeconfig.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.dll
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\bin\Debug\net8.0\Activity-1_Assign_05.pdb
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.AssemblyInfoInputs.cache
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.AssemblyInfo.cs
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\bundle\Activity-1_Assign_05.styles.css
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\scopedcss\projectbundle\Activity-1_Assign_05.bundle.scp.css
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.Activity-1_Assign_05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.Activity-1_Assign_05.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.build.Activity-1_Assign_05.props
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Activity-1_Assign_05.props
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Activity-1_Assign_05.props
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.dll
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\refint\Activity-1_Assign_05.dll
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1_Assign_05.pdb
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\Activity-1 Assign_05.genruntimeconfig.cache
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\ref\Activity-1_Assign_05.dll
+C:\Users\PMLS\Desktop\Activity-1 Assign_05\Activity-1 Assign_05\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
